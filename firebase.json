@@ -1,5 +1,6 @@
 {
   "hosting": {
+    "target": "another-sample-project",
     "public": "public",
     "ignore": [
       "firebase.json",

@@ -1,5 +1,15 @@
 {
   "projects": {
     "default": "freelancing-qa"
-  }
+  },
+  "targets": {
+    "freelancing-qa": {
+      "hosting": {
+        "another-sample-project": [
+          "another-sample-project"
+        ]
+      }
+    }
+  },
+  "etags": {}
 }
